@@ -1639,3 +1639,25 @@ Blockly.Msg.WORKSPACE_ARIA_LABEL = 'Blockly Workspace';
 /// that block have warnings attached to them. It should inform the user that the
 /// block they collapsed contains blocks that have warnings.
 Blockly.Msg.COLLAPSED_WARNINGS_WARNING = 'Collapsed blocks contain warnings.';
+
+// Custom blocks.
+
+Blockly.Msg.PROCEDURES_DEFNOARGSNORETURN_TITLE = 'define';
+Blockly.Msg.KAREL_MAIN_TITLE = 'define main';
+Blockly.Msg.KAREL_MOVE_FORWARD = 'move forward';
+Blockly.Msg.KAREL_TURN_LEFT = 'turn left';
+Blockly.Msg.KAREL_PLACE_STONE = 'place stone';
+Blockly.Msg.KAREL_PICKUP_STONE = 'pickup stone';
+Blockly.Msg.KAREL_FRONT_IS_CLEAR = 'front is clear';
+Blockly.Msg.KAREL_FRONT_IS_BLOCKED = 'front is blocked';
+Blockly.Msg.KAREL_STONES_PRESENT = 'stones present';
+Blockly.Msg.KAREL_STONES_NOT_PRESENT = 'stones not present';
+Blockly.Msg.KAREL_IF_FRONT_IS = 'if front is';
+Blockly.Msg.KAREL_CLEAR = 'clear';
+Blockly.Msg.KAREL_BLOCKED = 'blocked';
+Blockly.Msg.KAREL_IF_STONES_ARE = 'if stones are';
+Blockly.Msg.KAREL_PRESENT = "present";
+Blockly.Msg.KAREL_NOT_PRESENT = "absent";
+Blockly.Msg.KAREL_WHILE = "while";
+Blockly.Msg.KAREL_WHILE_FRONT_IS = "while front is";
+Blockly.Msg.KAREL_WHILE_STONES_ARE = "while stones are";

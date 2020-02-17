@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"author": "Ellen Spertus <ellen.spertus@gmail.com>",
-		"lastupdated": "2020-01-23 14:59:14.637552",
+		"lastupdated": "2020-02-17 02:18:27.061891",
 		"locale": "en",
 		"messagedocumentation" : "qqq"
 	},
@@ -404,5 +404,19 @@
 	"PROCEDURES_IFRETURN_WARNING": "Warning: This block may be used only within a function definition.",
 	"WORKSPACE_COMMENT_DEFAULT_TEXT": "Say something...",
 	"WORKSPACE_ARIA_LABEL": "Blockly Workspace",
-	"COLLAPSED_WARNINGS_WARNING": "Collapsed blocks contain warnings."
+	"COLLAPSED_WARNINGS_WARNING": "Collapsed blocks contain warnings.",
+	"PROCEDURES_DEFNOARGSNORETURN_TITLE": "define",
+	"KAREL_MAIN_TITLE": "define main",
+	"KAREL_MOVE_FORWARD": "move forward",
+	"KAREL_TURN_LEFT": "turn left",
+	"KAREL_PLACE_STONE": "place stone",
+	"KAREL_PICKUP_STONE": "pickup stone",
+	"KAREL_FRONT_IS_CLEAR": "front is clear",
+	"KAREL_FRONT_IS_BLOCKED": "front is blocked",
+	"KAREL_STONES_PRESENT": "stones present",
+	"KAREL_STONES_NOT_PRESENT": "stones not present",
+	"KAREL_IF_FRONT_IS": "if front is",
+	"KAREL_CLEAR": "clear",
+	"KAREL_BLOCKED": "blocked",
+	"KAREL_IF_STONES_ARE": "if stones are"
 }

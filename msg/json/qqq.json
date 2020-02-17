@@ -398,5 +398,19 @@
 	"PROCEDURES_IFRETURN_WARNING": "warning - This appears if the user tries to use this block outside of a function definition.",
 	"WORKSPACE_COMMENT_DEFAULT_TEXT": "comment text - This text appears in a new workspace comment, to hint that the user can type here.",
 	"WORKSPACE_ARIA_LABEL": "workspace - This text is read out when a user navigates to the workspace while using a screen reader.",
-	"COLLAPSED_WARNINGS_WARNING": "warning - This appears if the user collapses a block, and blocks inside that block have warnings attached to them. It should inform the user that the block they collapsed contains blocks that have warnings."
+	"COLLAPSED_WARNINGS_WARNING": "warning - This appears if the user collapses a block, and blocks inside that block have warnings attached to them. It should inform the user that the block they collapsed contains blocks that have warnings.",
+	"PROCEDURES_DEFNOARGSNORETURN_TITLE": "",
+	"KAREL_MAIN_TITLE": "",
+	"KAREL_MOVE_FORWARD": "",
+	"KAREL_TURN_LEFT": "",
+	"KAREL_PLACE_STONE": "",
+	"KAREL_PICKUP_STONE": "",
+	"KAREL_FRONT_IS_CLEAR": "",
+	"KAREL_FRONT_IS_BLOCKED": "",
+	"KAREL_STONES_PRESENT": "",
+	"KAREL_STONES_NOT_PRESENT": "",
+	"KAREL_IF_FRONT_IS": "",
+	"KAREL_CLEAR": "",
+	"KAREL_BLOCKED": "",
+	"KAREL_IF_STONES_ARE": ""
 }
